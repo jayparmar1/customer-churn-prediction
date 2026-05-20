@@ -31,7 +31,7 @@ Save Model
 Streamlit Deployment
 ↓
 Prediction
-
+# Built and deployed using Streamlit.
 ## Run Locally
 
 pip install -r requirements.txt
